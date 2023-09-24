@@ -1,4 +1,4 @@
-# Documentación de la API
+# Preentrega 2: MongoDB
 
 Esta es la documentación de la API desarrollada para gestionar productos en una base de datos MongoDB.
 
