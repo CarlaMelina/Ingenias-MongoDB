@@ -14,7 +14,7 @@ La API se encarga de gestionar productos, que tienen la siguiente estructura:
     "categoria": "string"
 }
 
-## Importación de Datos
+Importación de Datos
 Los datos se importan a la base de datos MongoDB utilizando la API.
 
 Endpoints Funcionales
